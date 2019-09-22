@@ -89,8 +89,6 @@ Submit a pull request with a link to your solution in this [file](https://github
 
 * Add your solution below this list
 * [Abimael's Solution (Easy and Difficult)](https://github.com/Abimael1996/my-google)
-* [Paris' Solution (Easy)](https://github.com/Woodhouse1919/google-homepage) - [View in Browser](https://woodhouse1919.github.io/google-homepage/)
-* [Paris' Solution (Difficult)](https://github.com/Woodhouse1919/google-searchpage) - [View in Browser](https://woodhouse1919.github.io/google-searchpage/)
 * [Noelle Anderson's Solution (Difficult)](https://github.com/elleon003/google-homepage) - [View in Browser](https://elleon003.github.io/google-homepage/)
 * [Albert Jiang's Solution (Easy)](https://github.com/albertj320/google-homepage) - [View in Browser](https://albertj320.github.io/google-homepage/)
 * [Patrick Silvestre's Solution (Easy)](https://github.com/pjsilvestre/top-google-homepage) - [View in Browser](https://pjsilvestre.github.io/top-google-homepage/)
@@ -2448,6 +2446,7 @@ Submit a pull request with a link to your solution in this [file](https://github
 * [Siddhanth's Solution (Easy)](https://github.com/vinecreeper888/google-homepage) - [View in Browser](https://vinecreeper888.github.io/google-homepage/)
 * [Christopher's Solution (Easy)](https://github.com/gandolfthewise/google-homepage) - [View in Browser](https://gandolfthewise.github.io/google-homepage/) 
 * [qgeo's Solution (Easy)](https://github.com/qgeo/google-homepage) - [View in Browser](https://qgeo.github.io/google-homepage/)
+* [Philipp's Solution (Easy)](https://github.com/pparmin/google-homepage) - [View in Browser](https://pparmin.github.io/google-homepage/)
 </details>
 
 ### Additional Resources
